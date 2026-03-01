@@ -1,0 +1,38 @@
+.awards-section {
+    padding: 80px 0;
+    background: #fff;
+}
+
+.awards-img {
+    width: 85%;
+    max-width: 420px;
+}
+
+.awards-title {
+    font-size: 32px;
+    font-weight: 500;
+    color: #424242;
+    margin-bottom: 20px;
+}
+
+.awards-desc {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 25px;
+}
+
+.awards-list {
+    list-style: disc;
+    padding-left: 18px;
+    color: #444;
+    line-height: 2;
+}
+
+.press-logos {
+    margin-top: 25px;
+}
+
+.press-logos img {
+    width: 80%;
+    opacity: 0.8;
+}

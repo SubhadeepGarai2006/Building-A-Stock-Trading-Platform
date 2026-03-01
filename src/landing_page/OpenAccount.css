@@ -1,0 +1,31 @@
+.openaccount-section {
+    padding: 80px 0;
+    background: #fafafa;
+}
+
+.open-title {
+    font-size: 32px;
+    font-weight: 500;
+    color: #424242;
+    margin-bottom: 15px;
+}
+
+.open-desc {
+    color: #666;
+    font-size: 17px;
+    margin-bottom: 30px;
+}
+
+.open-btn {
+    background-color: #387ed1;
+    color: white;
+    border: none;
+    padding: 14px 34px;
+    font-size: 18px;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.open-btn:hover {
+    background-color: #2f6db5;
+}

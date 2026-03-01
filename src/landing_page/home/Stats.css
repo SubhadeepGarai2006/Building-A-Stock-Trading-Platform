@@ -1,0 +1,73 @@
+.stats-section {
+    padding: 90px 0;
+    background: #fff;
+}
+
+
+/* main heading */
+
+.stats-heading {
+    font-size: 34px;
+    font-weight: 500;
+    color: #424242;
+    margin-bottom: 40px;
+}
+
+
+/* each block */
+
+.stats-block {
+    margin-bottom: 30px;
+}
+
+.stats-block h4 {
+    font-size: 20px;
+    font-weight: 500;
+    color: #424242;
+    margin-bottom: 10px;
+}
+
+.stats-block p {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+
+/* ecosystem image */
+
+.ecosystem-img {
+    width: 90%;
+    max-width: 520px;
+    margin-bottom: 20px;
+}
+
+
+/* links */
+
+.stats-links {
+    margin-top: 20px;
+}
+
+.stats-links a {
+    text-decoration: none;
+    color: #387ed1;
+    font-weight: 500;
+    margin: 0 15px;
+}
+
+.stats-links a:hover {
+    color: #2f6db5;
+}
+
+
+/* press logos */
+
+.press-section {
+    margin-top: 70px;
+}
+
+.press-section img {
+    width: 75%;
+    opacity: 0.8;
+}

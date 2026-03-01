@@ -1,0 +1,35 @@
+.education-section {
+    padding: 100px 0;
+    background: #fff;
+}
+
+.education-img {
+    width: 85%;
+    max-width: 420px;
+}
+
+.education-title {
+    font-size: 32px;
+    font-weight: 500;
+    color: #424242;
+    margin-bottom: 20px;
+}
+
+.education-desc {
+    font-size: 16px;
+    color: #666;
+    line-height: 1.7;
+    margin-bottom: 15px;
+}
+
+.edu-link {
+    display: inline-block;
+    margin-bottom: 15px;
+    text-decoration: none;
+    color: #387ed1;
+    font-weight: 500;
+}
+
+.edu-link:hover {
+    color: #2f6db5;
+}
